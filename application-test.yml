@@ -1,0 +1,4 @@
+foo:
+  fix: 1
+  head: foo.head
+head: head
